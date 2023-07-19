@@ -1,0 +1,35 @@
+body{
+    background-color: #fF0;
+}
+
+/* p{
+    background-color: aquamarine;
+    border: 1px solid red;
+} */
+
+/* .ultimo{
+    background-color: #4F4;
+} */
+
+#ultimoparrafo{
+    background-color: red;
+}
+
+#parafo1 {
+    background-color: aquamarine;
+    border: 1px solid red;
+}
+
+a {
+        background-color: #444;
+        color: #FFF;
+        padding: 20px 30px;
+        border-radius: 20px;
+        font-size: 30px;
+        text-decoration: none;
+}
+
+a:hover {
+    background-color: #FFF;
+    color: #444;    
+}
