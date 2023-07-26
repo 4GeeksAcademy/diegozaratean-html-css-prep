@@ -1,0 +1,21 @@
+body{
+    background-color: bisque;
+}
+
+div {
+    /* background-color: rgb(201, 255, 243); */
+    border: 1px solid #f0f;
+}
+
+.miboton{
+    background-color: bisque;    
+}
+
+
+.newbutton {
+    background-color: #f0f;
+}
+
+.btn-secondary {
+    background-color: #ff0;
+}
